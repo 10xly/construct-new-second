@@ -1,0 +1,43 @@
+{
+  "name": "construct-new-second",
+  "version": "1.0.0",
+  "description": "alternative version of construct-new",
+  "keywords": [
+    "construct"
+  ],
+  "homepage": "https://github.com/enterprise-npm-ai/construct-new-second#readme",
+  "bugs": {
+    "url": "https://github.com/enterprise-npm-ai/construct-new-second/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enterprise-npm-ai/construct-new-second.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "@andreaspizsa/true": "^1.0.1",
+    "@errorstream/err": "^1.1.0",
+    "@is-(unknown)/is-function": "^1.0.0",
+    "es-intrinsic-cache": "^1.0.4",
+    "es-logical-not-operator": "^1.0.0",
+    "function.apply-x": "^1.0.0",
+    "is_null_or_undefined": "^0.0.1",
+    "is-array-like": "^1.1.2",
+    "is-constructable": "^1.0.0",
+    "is-nonpresent": "^1.0.0",
+    "lodash.stubarray": "^4.13.0",
+    "n0p3-es2015-cjs": "^1.0.1",
+    "object.create-intrinsic-ai": "^1.0.0",
+    "uncurry-x": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5"
+  }
+}
