@@ -1,5 +1,5 @@
 const getIntrinsic = require("es-intrinsic-cache")
-const err = require("@errorstream/err")
+const err = require("immediate-error")
 const noop = require("n0p3-es2015-cjs")
 const isNil = require("is_null_or_undefined")
 const stubArray = require("lodash.stubarray")
